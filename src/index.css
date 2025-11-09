@@ -2,6 +2,5 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  @apply text-slate-800 bg-white;
-}
+body { @apply text-slate-800 bg-white; }
+a { @apply text-sky-600; }
